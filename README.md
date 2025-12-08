@@ -4,8 +4,8 @@ This repository contains the code, figures, and tutorial for a machine learning 
 
 ## Contents
 
-- `Individual_A.ipynb` – The full Jupyter notebook used to run the experiments and generate all plots.
-- `Individual report Aniket.pdf` – The final written tutorial (under 2000 words).
+- `notebook.ipynb` – The full Jupyter notebook used to run the experiments and generate all plots.
+- `tutorial.pdf` – The final written tutorial (under 2000 words).
 - `figures/` – All figures produced by the notebook and included in the PDF.
 - `requirements.txt` – Python package requirements.
 - `LICENSE` – Open-source license for this project.
@@ -16,7 +16,7 @@ This repository contains the code, figures, and tutorial for a machine learning 
 1. Install Python 3.9+  
 2. Install dependencies:
 3. Open Jupyter:
-4. Run `Individual_A.ipynb` from top to bottom.  
+4. Run `notebook.ipynb` from top to bottom.  
 It will:
 - Download Fashion-MNIST  
 - Train five MLP variants  
